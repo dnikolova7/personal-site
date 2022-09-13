@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+h1 {
+  font-size: 5.5em;
+  margin-top: 30px auto 0 auto;
+  font-family: 'Qwitcher Grypen', serif;
+  color: #1A132F;
+}
+
+.things {
+  font-family: 'Raleway', serif;
+  font-size: 1.3rem;
+  color: #1A132F;
+}
+
+h3 { font-family: 'Raleway', serif;}
+
+.top-container {
+  background-color: #F7E2E2;
+  position: relative;
+  padding-top: 80px;
+}
+
+.middle-container {
+color: #1A132F;
+}
+
+.bottom-container {
+  background-color: #5B7DB1;
+  padding: 50px 0px 20px;
+
+}
+
+.doctor {
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position:relative;
+  left: 300px;
+  top: 50px;
+}
+
+.skill-row {color: #5B7DB1;
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+.contact-me {color:#5B7DB1; margin-top: 17px;
+margin-bottom: 50px;}
+
+.skill-roww {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+line-height: 2;}
+
+.stetoscope{width: 25%;
+float: left;
+margin-right: 30px;
+}
+.coding{width: 25%;
+float: right;
+margin-left: 30px;}
+
+.me {width: 20%;
+margin: 30px auto auto auto;
+}
+
+.h2 {color: #1A132F;}
+.hr1 {width: 6%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: #61A4BC;}
+
+    .myButton {
+    	box-shadow: 0px 0px 0px 0px #1c1b18;
+    	background:linear-gradient(to bottom, #5B7DB1 5%, #5B7DB1 100%);
+    	background-color:white;
+    	border-radius:30px;
+    	border:2px solid white;
+    	display:inline-block;
+    	cursor:pointer;
+    	color:white;
+    	font-family:'Raleway', serif;
+    	font-size:14px;
+    	font-weight:bold;
+    	padding:14px 25px;
+    	text-decoration:none;
+    	text-shadow:0px 0px 0px #ffffff;}
+
+      .myButton:hover{background:linear-gradient(to bottom, #5B7DB1 5%, #5B7DB1 100%);
+	background-color:#ccc2a6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.happy {margin: auto auto 45px auto;}
+
+.intro {width: 30%;
+margin: auto;
+padding-bottom: 20px;}
+
+p {line-height: 2;}
+
+.made {padding: 20px 0px;
+  font-size: 0.75rem;
+}
+
+a{ color: #1A132F ;
+  font-family:'Raleway', serif;
+  margin: 20px 10px;
+  text-decoration: none;
+
+}
+
+a:hover { color:#F7E2E2; }
